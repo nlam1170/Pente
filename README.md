@@ -1,6 +1,6 @@
 # Pente
 
-my implementation of Pente of my AP Comp Sci final project
+my implementation of Pente of my AP Comp Sci final project. Features the full game rules and a GUI for two player use
 
 all jar files in the libraries folder are needed to run the project. 
 
