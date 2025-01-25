@@ -1,7 +1,5 @@
 # Pente
 
-my implementation of Pente of my AP Comp Sci final project. Features the full game rules and a GUI for two player use
+Java implementation of the board game Pente in Java. (https://en.wikipedia.org/wiki/Pente).
 
-all jar files in the libraries folder are needed to run the project. 
-
-the project was coded in netbeans, and thus it must be run as a neatbeats project or imported as one
+Features the fully playable game with two player actions using either text in the command line or a GUI.
